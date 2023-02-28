@@ -1,0 +1,21 @@
+{
+  "name": "serene",
+  "displayName": "Serene",
+  "description": "\"Serene\" theme is a sleek and calm design with shades of purple. This theme is a perfect choice for those looking for a simple and minimalist style.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Serene",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Serene-color-theme.json"
+      }
+    ]
+  }
+}
