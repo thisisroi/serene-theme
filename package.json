@@ -3,6 +3,13 @@
   "displayName": "Serene",
   "description": "\"Serene\" theme is a sleek and calm design with shades of purple. This theme is a perfect choice for those looking for a simple and minimalist style.",
   "version": "1.0.0",
+  "publisher": "thisisroi",
+  "keywords": ["dark theme", "themes", "purple theme", "dark purple theme", "modern theme", "macos theme", "mac theme", "pink theme"],
+  "galleryBanner": {
+    "color": "#924BE4",
+    "theme": "dark"
+  },
+  "icon": "https://raw.githubusercontent.com/thisisroi/serene-theme/main/public/icon.png",
   "engines": {
     "vscode": "^1.75.0"
   },
