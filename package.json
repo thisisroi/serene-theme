@@ -9,7 +9,7 @@
     "color": "#924BE4",
     "theme": "dark"
   },
-  "icon": "https://github.com/thisisroi/serene-theme/raw/main/public/icon.png",
+  "icon": "public/icon.png",
   "engines": {
     "vscode": "^1.75.0"
   },
