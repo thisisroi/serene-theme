@@ -24,5 +24,10 @@
         "path": "./themes/Serene-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thisisroi/serene-theme"
+  },
+  "homepage": "https://github.com/thisisroi/serene-theme/blob/main/README.md"
 }
