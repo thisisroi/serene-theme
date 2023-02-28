@@ -1,6 +1,6 @@
 # Serene Theme
 
-![Serene Theme Screenshot](./public/wallpaper.png)
+![Serene Theme Screenshot](https://raw.githubusercontent.com/thisisroi/serene-theme/main/public/wallpaper.png)
 
 The Serene theme is a beautiful and calming Visual Studio Code theme with a focus on shades of purple. With its sleek and minimalist design, the Serene theme is perfect for anyone who wants a workspace that promotes concentration and productivity.
 
